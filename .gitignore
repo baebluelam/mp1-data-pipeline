@@ -3,3 +3,4 @@ __pycache__/
 .mypy_cache/
 .env
 cleaned_data.csv
+output/
